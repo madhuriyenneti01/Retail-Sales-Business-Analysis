@@ -42,7 +42,10 @@ An interactive Excel dashboard was developed to present key business insights an
 - Total Profit: $286,397.02
 - Profit Margin: 12.47%
 - Total Orders: 5,009
+- 
+## Dashboard Preview
 
+![Retail Sales Dashboard](DASHBOARD.png)
 ## Project Files
 - Excel workbook containing the analysis, PivotTables, charts, and interactive dashboard.
 
